@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "title": "Остров проклятых",
+    "description": "Психологический триллер о тайнах изолированного острова.",
+    "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/5a65e52e-05e4-48db-a8d8-1c7da810c38c/3840x",
+    "rating": 0
+  },
+    {
+      "id": 2,
+      "title": "Форрест Гамп",
+      "description": "Добрая история простого человека и его необычной жизни.",
+      "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/da241cd4-0828-4aed-bfd2-27332dc4c94c/3840x",
+      "rating": 0
+    },
+    {
+      "id": 3,
+      "title": "Зелёная миля",
+      "description": "Трогательная история о чуде и человечности.",
+      "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/20110bfe-0324-440d-b4d9-4358773b38b9/3840x",
+      "rating": 0
+    },
+    {
+      "id": 4,
+      "title": "Побег из Шоушенка",
+      "description": "История надежды и свободы за тюремными стенами.",
+      "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/e26044e5-2d5a-4b38-a133-a776ad93366f/3840x",
+      "rating": 0
+    },
+    {
+      "id": 5,
+      "title": "Интерстеллар",
+      "description": "Космическая драма о времени, любви и спасении человечества.",
+      "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/730b45aa-f2bb-410a-b699-4e4f2c62440d/3840x",
+      "rating": 0
+    },
+    {
+      "id": 6,
+      "title": "Джентльмены ",
+      "description": "Стильная криминальная комедия с чёрным юмором.",
+      "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/b0818ad5-daeb-420b-a37a-66186d209788/3840x",
+      "rating": 0
+    }
+  ]
+  
